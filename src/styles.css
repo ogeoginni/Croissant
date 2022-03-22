@@ -3,6 +3,12 @@ body {
   padding: 0 20px;
 }
 
+.index-body,
+.contact-body,
+.photo-body {
+  background-color: rgb(247, 222, 189);
+}
+
 h1 {
   font-weight: 900;
   margin: 0;
